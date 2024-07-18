@@ -1,0 +1,39 @@
+/* Cascading style sheet */
+
+/* using style tag */
+/* using inline css */
+/* using external style */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+  color: #1a1a1a;
+  font-family: "space Grotesk";
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.title {
+  .menu-container {
+  }
+  .menu-list {
+  }
+}
+
+.hero-image {
+  height: 300px;
+  width: 200px;
+}
